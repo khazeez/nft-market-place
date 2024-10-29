@@ -1,0 +1,29 @@
+{
+  "name": "nft-market-place",
+  "version": "1.0.0",
+  "description": "Platform for buy and sell NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khazeez/nft-market-place.git"
+  },
+  "keywords": [
+    "Kha211001;"
+  ],
+  "author": "Khoirul Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khazeez/nft-market-place/issues"
+  },
+  "homepage": "https://github.com/khazeez/nft-market-place#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
